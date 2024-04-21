@@ -68,6 +68,6 @@
 
 ###
 
-<p align="left">Odesa National Polytechnic University , Bachelor’s degree in Computer Engineerin</p>
+<p align="left">Odesa National Polytechnic University , Bachelor’s degree in Computer Engineering</p>
 
 ###
