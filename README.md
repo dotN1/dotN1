@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">I have more than 2 years of experience working with Microsoft products. I have worked on migrating data from on-premises CRM to the cloud, developing Azure functions. I also have experience in creating Power Automate flows and developing Canvas apps from scratch.<br>I work diligently to learn new skills and build my expertise. I am a reliable team player, always ready to pick up the slack and share my knowledge with others.</p>
+<p align="left">I have more than 2 years of experience working with Microsoft products. I have worked on migrating data from on-premises CRM to the cloud, developing Azure functions. I also have experience in creating Power Automate flows and developing Canvas apps from scratch.<br>Additionally, I have experience writing integrations with external APIs using Azure Functions. I am also proficient in working with Azure Logic Apps and Azure Data Factory.<br>I work diligently to learn new skills and build my expertise. I am a reliable team player, always ready to pick up the slack and share my knowledge with others.</p>
 
 ###
 
