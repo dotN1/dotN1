@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="assets/profile-mood.jpg" height="95" alt="Anime profile mood" />
+      <img src="assets/profile-mood.png" height="95" alt="Anime profile mood" />
     </td>
     <td align="left">
       <h1>Hi 👋, I'm Mykyta</h1>
