@@ -1,14 +1,6 @@
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="assets/profile-mood.png" height="105" alt="Anime profile mood" />
-    </td>
-    <td align="left">
-      <h1>Hi 👋, I'm Mykyta</h1>
-      <h3>Software Developer with 4+ years of experience in Microsoft technologies</h3>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Mykyta</h1>
+
+<h3 align="center">Software Developer with 4+ years of experience in Microsoft technologies</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mykyta-manzhosov-a58095298/" target="_blank">
@@ -98,4 +90,3 @@ I am also gaining experience with Microsoft Copilot AI Agents.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dotN1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
   </p>
 </details>
-
