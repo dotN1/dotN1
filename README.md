@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mykyta</h1>
 
-<h3 align="center">Software Developer with 4+ years of experience in Microsoft technologies</h3>
+<h3 align="center">Solutions Developer with 4+ years of experience in the Microsoft ecosystem</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mykyta-manzhosov-a58095298/" target="_blank">
